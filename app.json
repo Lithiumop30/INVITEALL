@@ -1,6 +1,6 @@
 {
   "name": "Inviteall",
-  "description": "Accha H LegendBoy.",
+  "description": "Lithium Papa Bolo.",
   "logo": "",
     "env": {
       "STRING": {
@@ -380,7 +380,7 @@
       },
       "GROUP_USERNAME": {
         "description": "WRITE UR GROUP USERNAME. Id Will Automatically Add to that Group",
-        "value": "@Legend_K_Userbot",
+        "value": "@ItsMe_Lithiumop",
         "required": true
       },      
       "SUDO": {
